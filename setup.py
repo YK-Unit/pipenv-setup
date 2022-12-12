@@ -155,7 +155,7 @@ setup(
         "colorama~=0.4",
         "packaging~=20.0",
         "requirementslib~=1.5",
-        "vistir~=0.4",
+        "vistir>=0.4.0,<=0.6.1",
         "six~=1.12",
         "typing~=3.7; python_version < '3.7'",
         "chardet>=3.0.0,<=5.0.0",
